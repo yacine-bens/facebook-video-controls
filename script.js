@@ -1,11 +1,13 @@
 // ==UserScript==
 // @name         Facebook video controls
 // @namespace    http://tampermonkey.net/
-// @version      2024-04-14
+// @version      0.0.1
 // @description  Enable video controls on Facebook stories and reels
 // @author       https://github.com/yacine-bens
 // @match        https://*.facebook.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=facebook.com
+// @updateURL    https://github.com/yacine-bens/facebook-video-controls/blob/main/script.js
+// @downloadURL  https://github.com/yacine-bens/facebook-video-controls/blob/main/script.js
 // @grant        none
 // @run-at       context-menu
 // ==/UserScript==
